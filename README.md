@@ -1,3 +1,5 @@
-CS 223 Digital Design \n
-VGA Drawing Canvas Project \n
-Fall '24 Bilkent University
+# CS 223 Digital Design
+
+# VGA Drawing Canvas Project
+
+# Fall '24 Bilkent University
